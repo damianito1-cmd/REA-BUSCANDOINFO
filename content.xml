@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508214522INS875</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508214522FGSL2M</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CIBER-EXPLORADORES: EL MISTERIO DE LAS FUENTES FIABLES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Damián Ortiz Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto está basado en la temática de la investigación histórica y de la naturaleza local combinada con la alfabetización digital ( combate contra las fake news y resolución de problemas técnicos). Está dirigida al segundo ciclo de Educación Primaria( 4º curso recomendado).El alumnado deberá investigar un aspecto del patrimonio local para crear un muro digital (Padlet) o una infografía (Canva). El foco no está solo en el contenido, sino en el proceso: aprenderán a verificar si una web es fiable, a trabajar de forma colaborativa y a aplicar un protocolo de resolución de incidentes técnicos sin bloquearse.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778269513741</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moxbr6bu-iyaqdywpe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡ATENCIÓN!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡ATENCIÓN!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡ATENCIÓN!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxbr6bu-iyaqdywpe</odePageId>
+      <odeBlockId>block-1778259775573-9ygnm0fg3</odeBlockId>
+      <blockName>¿Descubriremos la verdad?</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6bu-iyaqdywpe</odePageId>
+          <odeBlockId>block-1778259775573-9ygnm0fg3</odeBlockId>
+          <odeIdeviceId>idevice-1778259775570-m8707pzsn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>"¡Atención, Ciber-Exploradores! 🕵️‍♂️💻</strong></p>
+<p>Un gran misterio rodea la historia de nuestro pueblo/ciudad. En Internet circulan leyendas, noticias y fotos, pero... ¡cuidado! No todo lo que brilla en la pantalla es verdad. Algunas fuentes son falsas y quieren confundirnos.</p>
+<p>Vuestra misión, si aceptáis el reto, es convertiros en detectives digitales. Tendréis que investigar nuestro patrimonio, aprender a detectar las 'Fake News' y crear un muro digital para que todo el mundo conozca la verdadera historia de nuestro entorno.</p>
+<p>¿Estáis listos para encender vuestros dispositivos y descubrir la verdad?"</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778259775570-m8707pzsn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>\"¡Atención, Ciber-Exploradores! 🕵️‍♂️💻</strong></p>\n<p>Un gran misterio rodea la historia de nuestro pueblo/ciudad. En Internet circulan leyendas, noticias y fotos, pero... ¡cuidado! No todo lo que brilla en la pantalla es verdad. Algunas fuentes son falsas y quieren confundirnos.</p>\n<p>Vuestra misión, si aceptáis el reto, es convertiros en detectives digitales. Tendréis que investigar nuestro patrimonio, aprender a detectar las 'Fake News' y crear un muro digital para que todo el mundo conozca la verdadera historia de nuestro entorno.</p>\n<p>¿Estáis listos para encender vuestros dispositivos y descubrir la verdad?\"</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moxbr6bu-iyaqdywpe</odePageId>
+      <odeBlockId>block-1778259939814-pcp6y1y5s</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6bu-iyaqdywpe</odePageId>
+          <odeBlockId>block-1778259939814-pcp6y1y5s</odeBlockId>
+          <odeIdeviceId>idevice-1778259939810-4iunyltd1</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>💡 Consejo del Capitán Digital:</strong> Si prefieres escuchar la misión en lugar de leerla, ¡puedes pedirle a tu profesor que te ayude a usar el lector de pantalla o leer la parte &nbsp;introductoria con él!</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moxbr6bu-iyaqdywpe</odePageId>
+      <odeBlockId>block-1778260021158-2qsjgb9fw</odeBlockId>
+      <blockName>¡RESPETAMOS LOS DERECHOS DE AUTOR!</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6bu-iyaqdywpe</odePageId>
+          <odeBlockId>block-1778260021158-2qsjgb9fw</odeBlockId>
+          <odeIdeviceId>idevice-1778260021155-qh5bdd55u</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778260021155-qh5bdd55u" title="" href="{{context_path}}/content/resources/1778006973130-23d96149-f9c9-472b-aea4-d010e008378d_1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/1778006973130-23d96149-f9c9-472b-aea4-d010e008378d_1.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778260021155-qh5bdd55u","img_0":{"img":"{{context_path}}/content/resources/1778006973130-23d96149-f9c9-472b-aea4-d010e008378d_1.jpg","thumbnail":"{{context_path}}/content/resources/1778006973130-23d96149-f9c9-472b-aea4-d010e008378d_1.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxbr6c0-p1sa3zuiq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxbr6c0-p1sa3zuiq</odePageId>
+      <odeBlockId>block-1778008654981-pam479o64</odeBlockId>
+      <blockName>Nos organizamos</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6c0-p1sa3zuiq</odePageId>
+          <odeBlockId>block-1778008654981-pam479o64</odeBlockId>
+          <odeIdeviceId>idevice-1778008654980-47wo24hth</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Introducción para el Docente</strong><br />Esta Situación de Aprendizaje (SdA) busca que el alumnado de 4º de Primaria desarrolle su competencia digital mientras descubre su entorno. Se enfoca en la búsqueda crítica de información y el uso ético de herramientas digitales.</p>
+<p><strong>2. Tabla de Relación: Sesiones y Criterios</strong></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 19.9771%;"><strong>TAREA</strong></td>
+<td style="width: 19.9771%;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 19.9771%;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.9771%;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 19.9788%;"><strong>HERRAMIENTA</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9771%;"><em>Taller de verificación de fuentes( fake news)</em></td>
+<td style="width: 19.9771%;">L.C.L.4.4.4</td>
+<td style="width: 19.9771%;">Parejas</td>
+<td style="width: 19.9771%;">1 Sesión</td>
+<td style="width: 19.9788%;">Navegador Web, Motores de búsqueda</td>
+</tr>
+<tr>
+<td style="width: 19.9771%;"><em>Investigación sobre el patrimonio local</em></td>
+<td style="width: 19.9771%;">L.C.L.4.4.2/CS.4.2.1</td>
+<td style="width: 19.9771%;">Pequeño grupo</td>
+<td style="width: 19.9771%;">1 Sesión</td>
+<td style="width: 19.9788%;">Google, Wikipedia, Webs institucionales</td>
+</tr>
+<tr>
+<td style="width: 19.9771%;"><em>Creación de Infografía digital del Patrimonio</em></td>
+<td style="width: 19.9771%;">L.C.L.4.8.3./E.A.R.4.2.1.</td>
+<td style="width: 19.9771%;">Individual/Parejas</td>
+<td style="width: 19.9771%;">2 Sesiones</td>
+<td style="width: 19.9788%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 19.9771%;"><em>Diseño de muro colaborativo de hallazgos</em></td>
+<td style="width: 19.9771%;">L.C.L.4.8.3</td>
+<td style="width: 19.9771%;">Gran Grupo</td>
+<td style="width: 19.9771%;">1 Sesión</td>
+<td style="width: 19.9788%;">Padlet</td>
+</tr>
+<tr>
+<td style="width: 19.9771%;"><em>Exposición final  y resolución de dudas técnicas</em></td>
+<td style="width: 19.9771%;">L.C.L.4.3.1.</td>
+<td style="width: 19.9771%;">Gran grupo</td>
+<td style="width: 19.9771%;">1 Sesión</td>
+<td style="width: 19.9788%;">Proyector/Pizarra Digital</td>
+</tr>
+</tbody>
+</table>
+<p><strong>3. Competencias Específicas y DUA</strong></p>
+<p>Competencia Digital (CD): Se trabaja especialmente la búsqueda crítica de información (CD1) y la creación de contenidos (CD3).</p>
+<p><br /><strong>Atención a la Diversidad (DUA):</strong></p>
+<p>Representación: Uso de vídeos, textos y esquemas visuales.<br />Acción y Expresión: El alumnado puede elegir entre crear un muro (Padlet) o una infografía (Canva).<br />Implicación: Gamificación mediante el rol de "Ciber-Exploradores".</p>
+<p><strong>4. Recomendaciones para la aplicación</strong></p>
+<p>Agrupamientos: Se recomienda trabajar en parejas cooperativas para fomentar la ayuda mutua en problemas técnicos.<br />Espacios: Aula de informática o uso de tablets en el aula ordinaria con conexión estable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778008654980-47wo24hth","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Introducción para el Docente</strong><br />Esta Situación de Aprendizaje (SdA) busca que el alumnado de 4º de Primaria desarrolle su competencia digital mientras descubre su entorno. Se enfoca en la búsqueda crítica de información y el uso ético de herramientas digitales.</p>\n<p><strong>2. Tabla de Relación: Sesiones y Criterios</strong></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9771%;\"><strong>TAREA</strong></td>\n<td style=\"width: 19.9771%;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 19.9771%;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.9771%;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 19.9788%;\"><strong>HERRAMIENTA</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9771%;\"><em>Taller de verificación de fuentes( fake news)</em></td>\n<td style=\"width: 19.9771%;\">L.C.L.4.4.4</td>\n<td style=\"width: 19.9771%;\">Parejas</td>\n<td style=\"width: 19.9771%;\">1 Sesión</td>\n<td style=\"width: 19.9788%;\">Navegador Web, Motores de búsqueda</td>\n</tr>\n<tr>\n<td style=\"width: 19.9771%;\"><em>Investigación sobre el patrimonio local</em></td>\n<td style=\"width: 19.9771%;\">L.C.L.4.4.2/CS.4.2.1</td>\n<td style=\"width: 19.9771%;\">Pequeño grupo</td>\n<td style=\"width: 19.9771%;\">1 Sesión</td>\n<td style=\"width: 19.9788%;\">Google, Wikipedia, Webs institucionales</td>\n</tr>\n<tr>\n<td style=\"width: 19.9771%;\"><em>Creación de Infografía digital del Patrimonio</em></td>\n<td style=\"width: 19.9771%;\">L.C.L.4.8.3./E.A.R.4.2.1.</td>\n<td style=\"width: 19.9771%;\">Individual/Parejas</td>\n<td style=\"width: 19.9771%;\">2 Sesiones</td>\n<td style=\"width: 19.9788%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 19.9771%;\"><em>Diseño de muro colaborativo de hallazgos</em></td>\n<td style=\"width: 19.9771%;\">L.C.L.4.8.3</td>\n<td style=\"width: 19.9771%;\">Gran Grupo</td>\n<td style=\"width: 19.9771%;\">1 Sesión</td>\n<td style=\"width: 19.9788%;\">Padlet</td>\n</tr>\n<tr>\n<td style=\"width: 19.9771%;\"><em>Exposición final  y resolución de dudas técnicas</em></td>\n<td style=\"width: 19.9771%;\">L.C.L.4.3.1.</td>\n<td style=\"width: 19.9771%;\">Gran grupo</td>\n<td style=\"width: 19.9771%;\">1 Sesión</td>\n<td style=\"width: 19.9788%;\">Proyector/Pizarra Digital</td>\n</tr>\n</tbody>\n</table>\n<p><strong>3. Competencias Específicas y DUA</strong></p>\n<p>Competencia Digital (CD): Se trabaja especialmente la búsqueda crítica de información (CD1) y la creación de contenidos (CD3).</p>\n<p><br /><strong>Atención a la Diversidad (DUA):</strong></p>\n<p>Representación: Uso de vídeos, textos y esquemas visuales.<br />Acción y Expresión: El alumnado puede elegir entre crear un muro (Padlet) o una infografía (Canva).<br />Implicación: Gamificación mediante el rol de \"Ciber-Exploradores\".</p>\n<p><strong>4. Recomendaciones para la aplicación</strong></p>\n<p>Agrupamientos: Se recomienda trabajar en parejas cooperativas para fomentar la ayuda mutua en problemas técnicos.<br />Espacios: Aula de informática o uso de tablets en el aula ordinaria con conexión estable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxbr6c0-ljmv7c96n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ZONA SEGURA: TUS HUELLAS EN LA RED</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ZONA SEGURA: TUS HUELLAS EN LA RED</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Zona Segura: Tus Huellas en la Red</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ZONA SEGURA: TUS HUELLAS EN LA RED</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxbr6c0-ljmv7c96n</odePageId>
+      <odeBlockId>block-1778010483814-uabvu4zmt</odeBlockId>
+      <blockName>¡Asegurémonos!</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6c0-ljmv7c96n</odePageId>
+          <odeBlockId>block-1778010483814-uabvu4zmt</odeBlockId>
+          <odeIdeviceId>idevice-1778010483812-agvqise62</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Introducción </strong><br />"Como todo buen explorador, debes saber que al caminar por la selva de Internet dejas huellas. A veces, esas huellas dicen de nosotros más de lo que queremos. En esta sección aprenderás a proteger tu mochila digital."</p>
+<p><strong>2. Consejos de Seguridad</strong></p>
+<p><strong title=""><a href="https://canva.link/grm31qzrnfc1q6j">https://canva.link/grm31qzrnfc1q6j</a></strong></p>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778010483812-agvqise62","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Introducción </strong><br />\"Como todo buen explorador, debes saber que al caminar por la selva de Internet dejas huellas. A veces, esas huellas dicen de nosotros más de lo que queremos. En esta sección aprenderás a proteger tu mochila digital.\"</p>\n<p><strong>2. Consejos de Seguridad</strong></p>\n<p><strong title=\"\"><a href=\"https://canva.link/grm31qzrnfc1q6j\">https://canva.link/grm31qzrnfc1q6j</a></strong></p>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxbr6c1-vf8mdtblg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EL LABORATORIO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL LABORATORIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL LABORATORIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxbr6c1-vf8mdtblg</odePageId>
+      <odeBlockId>block-1778011471430-skqsgcqq2</odeBlockId>
+      <blockName>Laboratorio de Contenidos</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6c1-vf8mdtblg</odePageId>
+          <odeBlockId>block-1778011471430-skqsgcqq2</odeBlockId>
+          <odeIdeviceId>idevice-1778011471426-3n64jhp84</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>"Se han integrado dos paneles de curación diferenciados para atender a la diversidad y al rol activo del alumnado. El Panel del Docente actúa como un repositorio de recursos de ampliación y marco teórico, mientras que el Panel del Alumnado ha sido diseñado bajo los principios del DUA, ofreciendo fuentes seleccionadas, seguras y de lectura fácil que facilitan la investigación autónoma. Esta selección previa evita la infoxicación y asegura que el proceso de búsqueda se centre en la validación y análisis crítico de la información, cumpliendo con los indicadores de alfabetización mediática del Marco de Referencia de la Competencia Digital Docente."</p>
+<p><br /></p>
+<p><a href="https://padlet.com/damianito1/el-kit-del-ciber-explorador-patrimonio-y-verdad-bvnlqr4qpwuw5dy4" title="">https://padlet.com/damianito1/el-kit-del-ciber-explorador-patrimonio-y-verdad-bvnlqr4qpwuw5dy4</a></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAdSbhmAAA41-5EVZ8w==" title="">https://www.symbaloo.com/shared/AAAAAdSbhmAAA41-5EVZ8w==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011471426-3n64jhp84","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>\"Se han integrado dos paneles de curación diferenciados para atender a la diversidad y al rol activo del alumnado. El Panel del Docente actúa como un repositorio de recursos de ampliación y marco teórico, mientras que el Panel del Alumnado ha sido diseñado bajo los principios del DUA, ofreciendo fuentes seleccionadas, seguras y de lectura fácil que facilitan la investigación autónoma. Esta selección previa evita la infoxicación y asegura que el proceso de búsqueda se centre en la validación y análisis crítico de la información, cumpliendo con los indicadores de alfabetización mediática del Marco de Referencia de la Competencia Digital Docente.\"</p>\n<p><br /></p>\n<p><a href=\"https://padlet.com/damianito1/el-kit-del-ciber-explorador-patrimonio-y-verdad-bvnlqr4qpwuw5dy4\" title=\"\">https://padlet.com/damianito1/el-kit-del-ciber-explorador-patrimonio-y-verdad-bvnlqr4qpwuw5dy4</a></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAdSbhmAAA41-5EVZ8w==\" title=\"\">https://www.symbaloo.com/shared/AAAAAdSbhmAAA41-5EVZ8w==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxbr6c1-w9vx35cns</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HOJA DE RUTA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HOJA DE RUTA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HOJA DE RUTA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxbr6c1-w9vx35cns</odePageId>
+      <odeBlockId>block-1778011932462-agwaervet</odeBlockId>
+      <blockName>El mapa de la verdad</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6c1-w9vx35cns</odePageId>
+          <odeBlockId>block-1778011932462-agwaervet</odeBlockId>
+          <odeIdeviceId>idevice-1778011932458-k5t5p7iib</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Escuchad bien, Ciber-Exploradores! 🕵️‍♀️💻</p>
+<p>Todo gran investigador necesita un plan maestro para no perderse en la selva de Internet. Para resolver el Misterio de las Fuentes Fiables, hemos diseñado esta Línea del Tiempo. Es vuestro mapa del tesoro digital.</p>
+<p>En ella veréis paso a paso cómo pasaremos de ser aprendices a convertirnos en maestros de la verdad:</p>
+<p>Exploraremos nuestro patrimonio local. 🏰<br />Cazaremos las noticias falsas que intentan engañarnos. 🚫🤥<br />Crearemos nuestro propio muro digital para contarle al mundo lo que hemos descubierto. 🎨</p>
+<p></p>
+<p><a href="https://canva.link/gx2m6ddcxp1aihm" title="">https://canva.link/gx2m6ddcxp1aihm</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011932458-k5t5p7iib","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Escuchad bien, Ciber-Exploradores! 🕵️‍♀️💻</p>\n<p>Todo gran investigador necesita un plan maestro para no perderse en la selva de Internet. Para resolver el Misterio de las Fuentes Fiables, hemos diseñado esta Línea del Tiempo. Es vuestro mapa del tesoro digital.</p>\n<p>En ella veréis paso a paso cómo pasaremos de ser aprendices a convertirnos en maestros de la verdad:</p>\n<p>Exploraremos nuestro patrimonio local. 🏰<br />Cazaremos las noticias falsas que intentan engañarnos. 🚫🤥<br />Crearemos nuestro propio muro digital para contarle al mundo lo que hemos descubierto. 🎨</p>\n<p></p>\n<p><a href=\"https://canva.link/gx2m6ddcxp1aihm\" title=\"\">https://canva.link/gx2m6ddcxp1aihm</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxbr6c2-vk0fpkq8j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TABLA DE PUNTUACIÓN DEL EXPLORADOR</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TABLA DE PUNTUACIÓN DEL EXPLORADOR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TABLA DE PUNTUACIÓN DEL EXPLORADOR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxbr6c2-vk0fpkq8j</odePageId>
+      <odeBlockId>block-1778014906037-8gnxtfvqi</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6c2-vk0fpkq8j</odePageId>
+          <odeBlockId>block-1778014906037-8gnxtfvqi</odeBlockId>
+          <odeIdeviceId>idevice-1778014906035-jkzgj6lyq</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1778014906035-jkzgj6lyq" data-evaluationb="true" data-evaluationid="2b344202-c2b1-4f48-b2c7-af7bba49eb0f"></div>
+            <div id="frmMainContainer-idevice-1778014906035-jkzgj6lyq" class="form-IDevice" data-id="idevice-1778014906035-jkzgj6lyq">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p>
+<p><strong>"¡Todo esfuerzo tiene su recompensa! 🏆</strong></p>
+<p>Para que sepáis cómo conseguir la medalla de Maestro Explorador, aquí tenéis algunos objetivos. No es un examen, es una guía para que vuestro trabajo brille al máximo. Antes de entregar vuestro muro digital o vuestra infografía, echadle un vistazo: ¿habéis citado las fuentes? ¿vuestro diseño es claro? ¡Si cumplís los objetivos, el misterio estará resuelto!"</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:flex;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1778014906035-jkzgj6lyq">05:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1778014906035-jkzgj6lyq" style="display:flex;">
+                      <button  id="frmStartGame-idevice-1778014906035-jkzgj6lyq" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1778014906035-jkzgj6lyq" style="display:none;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1778014906035-jkzgj6lyq" > </div>
+                        <div id="frmCover-idevice-1778014906035-jkzgj6lyq" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1778014906035-jkzgj6lyq" class="form-results-container inline">
+                        <div id="form-score-idevice-1778014906035-jkzgj6lyq" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1778014906035-jkzgj6lyq" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1778014906035-jkzgj6lyq" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1778014906035-jkzgj6lyq" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1778014906035-jkzgj6lyq" type="button" value="Reiniciar"
+                            data-id="idevice-1778014906035-jkzgj6lyq" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1778014906035-jkzgj6lyq" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1778014906035-jkzgj6lyq" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1778014906035-jkzgj6lyq" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778014906035-jkzgj6lyq","evaluation":true,"evaluationID":"2b344202-c2b1-4f48-b2c7-af7bba49eb0f","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778014906035-jkzgj6lyq","questionsRandom":false,"percentageQuestions":"100","time":"5","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>\n<p><strong>\"¡Todo esfuerzo tiene su recompensa! 🏆</strong></p>\n<p>Para que sepáis cómo conseguir la medalla de Maestro Explorador, aquí tenéis algunos objetivos. No es un examen, es una guía para que vuestro trabajo brille al máximo. Antes de entregar vuestro muro digital o vuestra infografía, echadle un vistazo: ¿habéis citado las fuentes? ¿vuestro diseño es claro? ¡Si cumplís los objetivos, el misterio estará resuelto!\"</p>","questionsData":[{"id":"1778015040927-GAF5Q","activityType":"fill","baseText":"<p>1. ¿Qué tres datos nuevos he aprendido sobre nuestro patrimonio? </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1778015086282-7URP6","activityType":"fill","baseText":"<p>2. ¿Qué página web o fuente he consultado? Escribe la URL y explica por qué te fías de ella.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1778015208078-ID9I6","activityType":"fill","baseText":"<p>3. Identifica un problema técnico que haya surgido en tu equipo        (ej: \"No podíamos subir la foto\", \"El teclado no escribía\").</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1778015292985-GIBBE","activityType":"dropdown","baseText":"<p>4. Emociones de explorador: ¿Cómo me he sentido trabajando en equipo hoy?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"Marca el 1 al 5","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778015728333-P2414","activityType":"true-false","baseText":"<p>5. Fiabilidad: ¿El contenido del muro parece real y citan de<br />dónde han sacado la información?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778015813638-UB1IP","activityType":"true-false","baseText":"<p>6. Diseño: ¿La infografía/muro es fácil de leer y las imágenes<br />tienen buena calidad?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moxbr6c2-vk0fpkq8j</odePageId>
+      <odeBlockId>block-1778260566137-yov9lhxnk</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6c2-vk0fpkq8j</odePageId>
+          <odeBlockId>block-1778260566137-yov9lhxnk</odeBlockId>
+          <odeIdeviceId>idevice-1778260566133-fts2kz5z0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong title="tarea 8.1.pdf [pdf - 103436 B]">Instrumentos de Evaluación</strong></p>
+<p>A continuación, se presentan los instrumentos técnicos diseñados para la calificación y seguimiento del proyecto. Estos instrumentos vinculan las actividades realizadas con los criterios de evaluación del currículo, garantizando una evaluación formativa y sumativa de calidad.</p>
+<p><strong>1. Cuaderno de Bitácora Digital (Autoevaluación)</strong></p>
+<p>Este instrumento guía tu reflexión diaria sobre el aprendizaje y la resolución de problemas técnicos.</p>
+<p> <strong>Misión del día:</strong></p>
+<p> Aprendizaje: ¿Qué tres datos nuevos he aprendido hoy? </p>
+<p>Competencia Crítica: ¿Qué fuente web has consultado? Escribe la URL y explica por qué es fiable.</p>
+<p>Diario de a bordo técnico:</p>
+<p> Incidencias: Identifica un problema técnico (ej: "No podíamos subir la foto").</p>
+<p> Resolución: Describe los pasos que disteis para solucionarlo antes de pedir ayuda.</p>
+<p> Emociones: ¿Cómo me he sentido trabajando en equipo? (Escala del 1 al 5) .</p>
+<p> . <br /><strong>2. Lista de Control: Competencia Digital y Colaboración</strong></p>
+<p>Este instrumento permite al docente observar conductas en tiempo real durante las sesiones de trabajo con herramientas como Canva o Padlet.</p>
+<p><strong>Categoría Ítem de Evaluación (Indicador de Logro: Sí/No)</strong><br /> <br /><strong>Búsqueda</strong><br />Cruza la información en al menos dos fuentes distintas.<br /> <br /><strong>Uso Técnico</strong><br />Utiliza comandos básicos (pestañas, historial, marcadores).<br /> <br /><strong>Resolución</strong><br />Consulta el "Protocolo S.O.S." o a un experto antes que al docente.<br /> <br /><strong>Colaboración</strong><br />Respeta el turno de edición en herramientas compartidas.<br /> <br /><strong>Seguridad</strong><br />Cierra la sesión y cuida el hardware al finalizar.<br /> <br /><strong>3. Evaluación de Ciber-Equipos (Coevaluación)</strong></p>
+<p>Los equipos intercambian dispositivos para evaluar de forma constructiva el producto final (Muro Digital o Infografía) mediante un Formulario de Google.</p>
+<p>Fiabilidad (1-5): ¿El contenido parece real y citan las fuentes de información? </p>
+<p>Diseño (1-5): ¿Es fácil de leer y las imágenes tienen buena calidad? </p>
+<p>Elementos técnicos correctos: </p>
+<p>[ ] Inserción de enlaces externos.</p>
+<p>[ ] Organización con títulos.</p>
+<p>[ ] Imágenes o vídeos propios/libres.</p>
+<p> <br />[ ] Sin faltas de ortografía.</p>
+<p><br /></p>
+<p>Feedback Positivo: ¿Qué es lo que más te ha gustado?  </p>
+<p>Sugerencia de Mejora: ¿Qué consejo darías para mejorar el producto digital? </p>
+<p> <br /><strong>4. Guía para el Docente: Tratamiento de Datos</strong><br /> </p>
+<p><strong>Triangulación</strong>: Se cruzará la nota de la Lista de Control con el Feedback del Formulario y la reflexión del Cuaderno de Bitácora.</p>
+<p><strong>Análisis de datos:</strong> Si se detectan errores comunes (como no citar fuentes), se realizará una micro-lección de refuerzo o una asamblea final con gráficos de sectores para reflexionar sobre la propiedad intelectual.</p>
+<p><strong>Accesibilidad:</strong> Los comentarios sobre "legibilidad" se usarán para explicar el contraste de colores en futuras unidades.</p>
+<p><br /></p>
+<p>Autor: Damián Ortiz Rodríguez </p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778260566133-fts2kz5z0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong title=\"tarea 8.1.pdf [pdf - 103436 B]\">Instrumentos de Evaluación</strong></p>\n<p>A continuación, se presentan los instrumentos técnicos diseñados para la calificación y seguimiento del proyecto. Estos instrumentos vinculan las actividades realizadas con los criterios de evaluación del currículo, garantizando una evaluación formativa y sumativa de calidad.</p>\n<p><strong>1. Cuaderno de Bitácora Digital (Autoevaluación)</strong></p>\n<p>Este instrumento guía tu reflexión diaria sobre el aprendizaje y la resolución de problemas técnicos.</p>\n<p> <strong>Misión del día:</strong></p>\n<p> Aprendizaje: ¿Qué tres datos nuevos he aprendido hoy? </p>\n<p>Competencia Crítica: ¿Qué fuente web has consultado? Escribe la URL y explica por qué es fiable.</p>\n<p>Diario de a bordo técnico:</p>\n<p> Incidencias: Identifica un problema técnico (ej: \"No podíamos subir la foto\").</p>\n<p> Resolución: Describe los pasos que disteis para solucionarlo antes de pedir ayuda.</p>\n<p> Emociones: ¿Cómo me he sentido trabajando en equipo? (Escala del 1 al 5) .</p>\n<p> . <br /><strong>2. Lista de Control: Competencia Digital y Colaboración</strong></p>\n<p>Este instrumento permite al docente observar conductas en tiempo real durante las sesiones de trabajo con herramientas como Canva o Padlet.</p>\n<p><strong>Categoría Ítem de Evaluación (Indicador de Logro: Sí/No)</strong><br /> <br /><strong>Búsqueda</strong><br />Cruza la información en al menos dos fuentes distintas.<br /> <br /><strong>Uso Técnico</strong><br />Utiliza comandos básicos (pestañas, historial, marcadores).<br /> <br /><strong>Resolución</strong><br />Consulta el \"Protocolo S.O.S.\" o a un experto antes que al docente.<br /> <br /><strong>Colaboración</strong><br />Respeta el turno de edición en herramientas compartidas.<br /> <br /><strong>Seguridad</strong><br />Cierra la sesión y cuida el hardware al finalizar.<br /> <br /><strong>3. Evaluación de Ciber-Equipos (Coevaluación)</strong></p>\n<p>Los equipos intercambian dispositivos para evaluar de forma constructiva el producto final (Muro Digital o Infografía) mediante un Formulario de Google.</p>\n<p>Fiabilidad (1-5): ¿El contenido parece real y citan las fuentes de información? </p>\n<p>Diseño (1-5): ¿Es fácil de leer y las imágenes tienen buena calidad? </p>\n<p>Elementos técnicos correctos: </p>\n<p>[ ] Inserción de enlaces externos.</p>\n<p>[ ] Organización con títulos.</p>\n<p>[ ] Imágenes o vídeos propios/libres.</p>\n<p> <br />[ ] Sin faltas de ortografía.</p>\n<p><br /></p>\n<p>Feedback Positivo: ¿Qué es lo que más te ha gustado?  </p>\n<p>Sugerencia de Mejora: ¿Qué consejo darías para mejorar el producto digital? </p>\n<p> <br /><strong>4. Guía para el Docente: Tratamiento de Datos</strong><br /> </p>\n<p><strong>Triangulación</strong>: Se cruzará la nota de la Lista de Control con el Feedback del Formulario y la reflexión del Cuaderno de Bitácora.</p>\n<p><strong>Análisis de datos:</strong> Si se detectan errores comunes (como no citar fuentes), se realizará una micro-lección de refuerzo o una asamblea final con gráficos de sectores para reflexionar sobre la propiedad intelectual.</p>\n<p><strong>Accesibilidad:</strong> Los comentarios sobre \"legibilidad\" se usarán para explicar el contraste de colores en futuras unidades.</p>\n<p><br /></p>\n<p>Autor: Damián Ortiz Rodríguez </p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moxbr6c3-uio5c23am</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moxbr6c3-uio5c23am</odePageId>
+      <odeBlockId>block-1778258562095-lm31vghlt</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moxbr6c3-uio5c23am</odePageId>
+          <odeBlockId>block-1778258562095-lm31vghlt</odeBlockId>
+          <odeIdeviceId>idevice-1778258562093-a5096d5yk</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Ciber-Exploradores: El Misterio de las Fuentes Fiables</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto está basado en la temática de la investigación histórica y de la naturaleza local combinada con la alfabetización digital ( combate contra las fake news y resolución de problemas técnicos). Está dirigida al segundo ciclo de Educación Primaria( 4º curso recomendado).El alumnado deberá investigar un aspecto del patrimonio local para crear un muro digital (Padlet) o una infografía (Canva). El foco no está solo en el contenido, sino en el proceso: aprenderán a verificar si una web es fiable, a trabajar de forma colaborativa y a aplicar un protocolo de resolución de incidentes técnicos sin bloquearse.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Damián Ortiz Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
